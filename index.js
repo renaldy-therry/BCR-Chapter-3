@@ -1,0 +1,4 @@
+console.log("hello world");
+
+const os = require('os');
+console.log('Free memory:', os.freemem())
